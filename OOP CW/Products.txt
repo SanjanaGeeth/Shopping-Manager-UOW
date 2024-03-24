@@ -1,0 +1,28 @@
+3 Product/s available------------------------------------------
+Product ID: 111
+Product Name: keyboard
+No of Items: 1
+Price: 23342.0
+Product type: Electronics
+Warranty period: 1
+Brand: Keychron
+
+------------------------------------------------
+Product ID: 112
+Product Name: Shoes
+No of Items: 3
+Price: 2000.0
+Product type: Clothing
+Size: 12
+Color: Blue
+
+------------------------------------------------
+Product ID: 332
+Product Name: Shirts
+No of Items: 12
+Price: 3245.0
+Product type: Clothing
+Size: 12
+Color: White
+
+------------------------------------------------
